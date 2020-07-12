@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Sydney! To give a quick intro...
+#🌱 studying computer science at South Dakota State University
+#😄 she/her pronouns
 
 <!--
 **sydneyberry/sydneyberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
