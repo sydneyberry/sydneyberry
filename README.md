@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Sydney! To give a quick intro...
+### Hi there 👋 I'm Sydney! I'm a computer science student with a passion for design. To give a quick intro...
 - 🌱 studying computer science at South Dakota State University
-- 😄 she/her pronouns
+- ⚡ interested in web development and human-computer interaction
+- 📫 sydney.berry@jacks.sdstate.edu
 
 <!--
 **sydneyberry/sydneyberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
