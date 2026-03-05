@@ -1,7 +1,6 @@
-### Hi there 👋 I'm Sydney! I'm a full-time software engineer with a passion for design. To give a quick intro...
-- 🌱 B.S. in Computer Science with honors from South Dakota State University (May 2022)
-- ⚡ interested in fullstack web, ml, + more
-- 📫 sydneyjberry12@gmail.com
+### Hi, I'm Sydney!
+- Backend software engineer
+- B.S. in Computer Science (graduated May 2022)
 
 <!--
 **sydneyberry/sydneyberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
